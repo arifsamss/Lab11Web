@@ -42,6 +42,7 @@ Untuk melakukan instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu c
 
 • Buka browser dengan alamat http://localhost/lab11_php_ci/ci4/public/
 
+![Fail](https://user-images.githubusercontent.com/81839328/122627722-87d17b00-d0db-11eb-9698-a334ea0ff1fa.JPG)
 
 
 
